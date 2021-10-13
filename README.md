@@ -11,6 +11,6 @@ A simple hospital management system with major emphasis on patient records.
 
 ### 4, Import The Database File 
 
-### 5, Run localhost/Hospital-Management-System 
+### 5, Run localhost/Hospital-Management-System in your >browser
 
-### 6, *have Fun *
+### 6, *Have Fun *
