@@ -3,7 +3,7 @@ A simple hospital management system with major emphasis on patient records.
 
 ## **Getting Started with the Project **
 
-### 1, Download and install Xampp server 
+### 1, Download and install Xampp or Wamp  server 
 
 ### 2, Fork the repository
 
@@ -13,4 +13,4 @@ A simple hospital management system with major emphasis on patient records.
 
 ### 5, Run localhost/Hospital-Management-System 
 
-### 6, *have Fun *
+### 6, ** _have Fun_ **
